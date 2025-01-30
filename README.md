@@ -14,10 +14,13 @@ Olá! Aqui é o Gabriel 👋
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=GabrieLima18&show_icons=true" />
+  
 </picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieLima18&layout=compact)
 
-<div  style="display: inline_block"><br>
+
+
+
   
 
