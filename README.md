@@ -1,16 +1,23 @@
-## Hi there 👋
+Olá! Aqui é o Gabriel 👋
 
-<!--
-**GabrieLima18/GabrieLima18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 Em migração de carreira.
+- 🌱 Aprendendo mais sobre Front-end.
+- 🤠 Explorando novas tecnologias e desenvolvendo pequenos projetos.
 
-Here are some ideas to get you started:
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=GabrieLima18&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=GabrieLima18&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrieLima18&show_icons=true" />
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieLima18&layout=compact)
+
+<div  style="display: inline_block"><br>
+  
+
