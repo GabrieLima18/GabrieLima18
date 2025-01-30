@@ -17,7 +17,7 @@ Olá! Aqui é o Gabriel 👋
   
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieLima18&layout=compact)
+
 
 
 
